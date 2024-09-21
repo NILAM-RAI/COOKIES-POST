@@ -1,5 +1,5 @@
 # Encrypted By Nilam Rai
-# Github- https://github.com/NILAM-RAI/ob-fuscator
+# Github- https://github.com/NILAM-RAI
 
 NILAM = ""
 NILAM += "\x61\x57\x31\x77\x62\x33\x4a\x30\x49\x48"
